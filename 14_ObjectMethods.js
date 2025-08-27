@@ -25,7 +25,7 @@ const programmerTwo = {
 console.log(Object.values(programmerTwo));
 
 
-// Object.entries() - array ko'rinishi
+// Object.entries() - array ko'rinishida ekgranga chiqarib beradi.
 const programmerThree = {
     name: "Beck",
     age: 32
